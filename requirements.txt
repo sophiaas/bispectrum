@@ -1,0 +1,5 @@
+numpy
+matplotlib
+itertools
+torch
+scitkit-image
